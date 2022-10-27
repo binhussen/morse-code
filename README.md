@@ -61,6 +61,12 @@ ruby index.rb
 - Twitter: [@twitterhandle][(https://twitter.com/twitterhandle)](https://twitter.com/samiullahk997)
 - LinkedIn: [LinkedIn][(https://linkedin.com/in/linkedinhandle)](https://www.linkedin.com/in/samiullah-khan-2702b7171/)
 
+👤**Author Samiullah**
+
+- GitHub: [@samlorlah](https://github.com/samlorlah)
+- Twitter: [@samlorlah](https://twitter.com/samlorlah)
+- LinkedIn: [Linkedin](https://www.linkedin.com/in/muyiwa-fawole/)
+
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
