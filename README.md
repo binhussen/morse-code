@@ -55,6 +55,13 @@ ruby index.rb
 - Twitter: [@binhussens](https://twitter.com/binhussens)
 - LinkedIn: [Linkedin](https://www.linkedin.com/in/binhussen/)
 
+👤**Author Samiullah**
+
+- GitHub: [@githubhandle]([https://github.com/githubhandle](https://github.com/samiullah997))
+- Twitter: [@twitterhandle][(https://twitter.com/twitterhandle)](https://twitter.com/samiullahk997)
+- LinkedIn: [LinkedIn][(https://linkedin.com/in/linkedinhandle)](https://www.linkedin.com/in/samiullah-khan-2702b7171/)
+
+
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 Feel free to check the [issues page](../../issues/).
